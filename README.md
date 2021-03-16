@@ -19,7 +19,7 @@
 <div>
    <img align="right" height="137" width="349" src="https://github-readme-stats.vercel.app/api?username=bugstop&show_icons=true&include_all_commits=true&bg_color=-40,6A2FA8,BF2FA8&title_color=FFFFFF&text_color=F0F0F0&icon_color=DECEAB" />
    <img align="right" height="4" />
-   <img align="right" height="139" width="349" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugstop&layout=compact&langs_count=4&exclude_repo=bugstop.github.io,coursera-deep-learning-solutions,univ-hitsz-eie-codes&bg_color=115,6A2FA8,003140&title_color=FFFFFF&text_color=F0F0F0" />
+   <img align="right" height="139" width="349" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugstop&layout=compact&langs_count=4&exclude_repo=bugstop,bugstop.github.io,coursera-deep-learning-solutions,vmware-macos-unlocker&bg_color=115,6A2FA8,003140&title_color=FFFFFF&text_color=F0F0F0" />
 </div>
 
 </a>
